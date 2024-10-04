@@ -159,11 +159,3 @@ Screenshot of generated plot
 
 </div>
 
-### 6) 
-
-
-
-### 7) 
-
-
-** ** 
